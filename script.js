@@ -2,7 +2,7 @@
 let d=new Date();
 document.getElementById('date').innerHTML=d.toLocaleDateString();
 let h=new Date();
-document.getElementById('heu').innerHTML=h.toLocaleTimeString();
+document.getElementById('heure').innerHTML=h.toLocaleTimeString();
 //2eme partie:chronomètre
 let heu=0,min=0,sec=0,dsec=0;
 let timer;

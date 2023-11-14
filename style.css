@@ -1,0 +1,35 @@
+#partie1
+{
+    background-color: aqua;
+    width: 50%;
+    border: 1px solid;
+    margin: auto;
+}
+#partie2
+{
+    background-color: aqua;
+    width: 50%;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: auto;
+}
+#ecran
+{
+    text-align: center;
+    width: 25%;
+    border: 1px solid;
+    border-radius: 20px;
+    margin: auto;
+}
+span
+{
+    font-size: xx-large;
+}
+#bt
+{
+    text-align: center;
+}
+button
+{
+    color: black;
+}
